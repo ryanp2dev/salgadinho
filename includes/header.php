@@ -85,12 +85,12 @@
                                 <i class="fal fa-clock text-theme fa-2x"></i>
                             </div>
                             <div class="media-body">
-                                <span class="d-block mb-1">Call for Order</span>
-                                <p class="mb-0 h4 text-font1"><a href="tel:+869526212">+869 526 212</a></p>
+                                <span class="d-block mb-1">Telefone de contato</span>
+                                <p class="mb-0 h4 text-font1"><a href="tel:+5567991757863">+55 67 991757863</a></p>
                             </div>
                         </div>
                         <div class="header-btn pl-xl-50">
-                            <a href="contact.html" class="vs-btn mask-style1">Book a Table</a>
+                            <a href="#" class="vs-btn mask-style1">Area do Cliente</a>
                         </div>
                     </div>
                 </div>
