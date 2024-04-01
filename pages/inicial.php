@@ -7,12 +7,12 @@
             <div class="row gutters-40">
                 <div class="col-lg-6">
                     <div class="about-image mb-30 mb-lg-0">
-                        <img src="assets/img/about/about-bg-6-2.png" alt="Image">
+                        <img src="lib/img/home/about-bg-6-2.png" alt="Image">
                     </div>
                 </div>
                 <div class="col-lg-6 align-self-center">
                     <div class="about-content ">
-                        <h2 class="sec-title1 text-font3">Discover Our <span class="text-theme">Story</span></h2>
+                        <h2 class="sec-title1 text-font3">Um Pouco da Nossa<span class="text-theme"> Historia</span></h2>
                         <div class="sec-line text-left mx-0">
                             <img src="assets/img/shape/sec-title-1.png" alt="Section Shape Icon">
                         </div>
@@ -57,63 +57,17 @@
             </div>
         </div>
     </section>
-    <!--==============================
-        Our Strength
-    ==============================-->
-    <section class="vs-service-wrapper vs-service-layout2 link-inherit  pb-lg-100 pb-30" id="service">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-md-11 col-lg-9 col-xl-7">
-                    <div class="section-title text-center ">
-                        <h2 class="sec-title1 text-font3"><span class="text-theme">Our</span> Strength</h2>
-                        <div class="sec-line">
-                            <img src="assets/img/shape/sec-title-1.png" alt="Section Shape Icon">
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="row arrow-has-margin text-center vs-carousel pb-lg-50" data-slidetoshow="3" data-dots="true" data-xldots="true" data-mldots="true" data-lgdots="true" data-mdslidetoshow="2" data-smslidetoshow="2" data-xsslidetoshow="1">
-                <div class="col-xl-4">
-                    <div class="vs-service vs-box1 px-20 px-xl-40 pt-30 pt-xl-60 pb-20 pb-xl-50 mb-30">
-                        <span class="service-icon text-theme d-block mb-30"><i class="flaticon-fork icon-3x"></i></span>
-                        <h3 class="service-title link-inherit mb-10">Catering</h3>
-                        <p class="service-text mb-0">Synergistically envisioneer client centered functionalities for go forward data world.</p>
-                    </div>
-                </div>
-                <div class="col-xl-4">
-                    <div class="vs-service vs-box1 px-20 px-xl-40 pt-30 pt-xl-60 pb-20 pb-xl-50 mb-30">
-                        <span class="service-icon text-theme d-block mb-30"><i class="flaticon-serving-dish icon-3x"></i></span>
-                        <h3 class="service-title link-inherit mb-10">Dinner</h3>
-                        <p class="service-text mb-0">Synergistically envisioneer client centered functionalities for go forward data world.</p>
-                    </div>
-                </div>
-                <div class="col-xl-4">
-                    <div class="vs-service vs-box1 px-20 px-xl-40 pt-30 pt-xl-60 pb-20 pb-xl-50 mb-30">
-                        <span class="service-icon text-theme d-block mb-30"><i class="flaticon-flag icon-3x"></i></span>
-                        <h3 class="service-title link-inherit mb-10">Wedding</h3>
-                        <p class="service-text mb-0">Synergistically envisioneer client centered functionalities for go forward data world.</p>
-                    </div>
-                </div>
-                <div class="col-xl-4">
-                    <div class="vs-service vs-box1 px-20 px-xl-40 pt-30 pt-xl-60 pb-20 pb-xl-50 mb-30">
-                        <span class="service-icon text-theme d-block mb-30"><i class="flaticon-confetti icon-3x"></i></span>
-                        <h3 class="service-title link-inherit mb-10">Birthday</h3>
-                        <p class="service-text mb-0">Synergistically envisioneer client centered functionalities for go forward data world.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+   
     <!--==============================
         CTA Area 
     ==============================-->
-    <section class="vs-cta-wrapper background-image bg-fluid py-lg-130 py-60" data-vs-img="assets/img/cta/banner-1.png" data-overlay="dark" data-opacity="5">
+    <section class="vs-cta-wrapper background-image bg-fluid py-lg-130 py-60" data-vs-img="lib/img/home/home1.webp" data-overlay="dark" data-opacity="5">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-xl-8">
                     <div class="cta-content text-center text-xl-left mb-30 mb-xl-0">
-                        <h2 class="h1 text-font3 text-white">Clebrate at one of NY's most <span class="text-theme">awarded</span> restaurant</h2>
-                        <h4 class="text-font1 mb-0 text-white">Only this month business lunch from $30.90</h4>
+                        <h2 class="h1 text-font3 text-white">Aproveite a promocao de Abril <span class="text-theme">10%</span> em toda loja</h2>
+                        <h4 class="text-font1 mb-0 text-white">Na compra do seu primeiro pedido ganhe 10% de desconto</h4>
                     </div>
                 </div>
                 <div class="col-xl-4 text-center text-xl-right">
@@ -130,7 +84,7 @@
             <div class="row justify-content-center text-center">
                 <div class="col-lg-6">
                     <div class="section-title">
-                        <h2 class="sec-title1 text-font3">Our Daily <span class="text-theme">Offers</span></h2>
+                        <h2 class="sec-title1 text-font3">Mais <span class="text-theme">Vendidos</span></h2>
                         <div class="sec-line">
                             <img src="assets/img/shape/sec-title-1.png" alt="Section Shape Icon">
                         </div>
@@ -140,7 +94,7 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="offer-banner mb-30">
-                        <img src="assets/img/banner/offer-banner-1.png" alt="Offer Banner" class="w-100">
+                        <img src="lib/img/home/produto1.webp" alt="Offer Banner" class="w-100">
                     </div>
                 </div>
                 <div class="col-lg-6 left-align">
@@ -149,12 +103,12 @@
                             <div class="vs-food-box">
                                 <div class="media pt-40 align-items-stretch d-block d-lg-flex">
                                     <div class="media-thumb">
-                                        <strong class="food-price text-theme text-md">$89.00</strong>
-                                        <a href="menu-details.html"><img src="assets/img/food-menu/food-menu-img-1-1.jpg" alt="Food Menu Image"></a>
+                                        <strong class="food-price text-theme text-md">R$ 89,00</strong>
+                                        <a href="#"><img src="lib/img/home/produto2.webp" alt="Food Menu Image"></a>
                                     </div>
                                     <div class="media-body px-lg-30 d-flex align-items-center">
                                         <div class="food-content w-100">
-                                            <h3 class="food-title text-lg mb-0"><a href="menu-details.html">Boiled Organic Egg</a></h3>
+                                            <h3 class="food-title text-lg mb-0"><a href="#">Pastel de Carne</a></h3>
                                             <p class="food-text mb-0 text-xs">Sauce, Hot Burger, Soft Drink</p>
                                             <span class="food-rating-icon text-theme text-md"><i class="fas fa-star"></i></span>
                                         </div>
@@ -166,12 +120,12 @@
                             <div class="vs-food-box">
                                 <div class="media pt-40 align-items-stretch d-block d-lg-flex">
                                     <div class="media-thumb">
-                                        <strong class="food-price text-theme text-md">$125.00</strong>
-                                        <a href="menu-details.html"><img src="assets/img/food-menu/food-menu-img-1-2.jpg" alt="Food Menu Image"></a>
+                                        <strong class="food-price text-theme text-md">R$ 125,00</strong>
+                                        <a href="#"><img src="lib/img/home/produto3.webp" alt="Food Menu Image"></a>
                                     </div>
                                     <div class="media-body px-lg-30 d-flex align-items-center">
                                         <div class="food-content w-100">
-                                            <h3 class="food-title text-lg mb-0"><a href="menu-details.html">Philadelphia salmon</a></h3>
+                                            <h3 class="food-title text-lg mb-0"><a href="#">Docinho de coco</a></h3>
                                             <p class="food-text mb-0 text-xs">Chilli bites, Chomchom, Soft Drink</p>
                                             <span class="food-rating-icon text-theme text-md"><i class="fas fa-star"></i></span>
                                         </div>
@@ -183,12 +137,12 @@
                             <div class="vs-food-box">
                                 <div class="media pt-40 align-items-stretch d-block d-lg-flex">
                                     <div class="media-thumb">
-                                        <strong class="food-price text-theme text-md">$79.00</strong>
-                                        <a href="menu-details.html"><img src="assets/img/food-menu/food-menu-img-1-3.jpg" alt="Food Menu Image"></a>
+                                        <strong class="food-price text-theme text-md">R$ 79,00</strong>
+                                        <a href="#"><img src="lib/img/home/produto4.webp" alt="Food Menu Image"></a>
                                     </div>
                                     <div class="media-body px-lg-30 d-flex align-items-center">
                                         <div class="food-content w-100">
-                                            <h3 class="food-title text-lg mb-0"><a href="menu-details.html">Western Sunrise</a></h3>
+                                            <h3 class="food-title text-lg mb-0"><a href="#">Esfirra</a></h3>
                                             <p class="food-text mb-0 text-xs">Chingri Malai curry, Soft Drink</p>
                                             <span class="food-rating-icon text-theme text-md"><i class="fas fa-star"></i></span>
                                         </div>
@@ -204,49 +158,40 @@
     <!--==============================
       Food Menu Area
     ==============================-->
-    <section class="vs-food-box-wrapper food-box-layout4 link-inherit background-image bg-fixed pt-lg-130 pt-60 pb-lg-100 pb-30" data-vs-img="assets/img/food-menu/food-bg-4-1.jpg" data-overlay="black" data-opacity="7" id="menu">
+    <section class="vs-food-box-wrapper food-box-layout4 link-inherit background-image bg-fixed pt-lg-130 pt-60 pb-lg-100 pb-30" data-vs-img="lib/img/slide/slide-01.webp" data-overlay="black" data-opacity="7" id="menu">
         <div class="container z-index-common">
             <div class="section-title text-center dark-style">
-                <h2 class="sec-title1 text-font3">Check Our <span class="text-theme">Menu</span></h2>
+                <h2 class="sec-title1 text-font3">Menu <span class="text-theme">Completo</span></h2>
                 <div class="sec-line">
                     <img src="assets/img/shape/sec-title-2.png" alt="Section Shape Icon">
                 </div>
             </div>
 
             <div class="row justify-content-center">
-                <div class="col-lg-10 col-xl-7 dark-style">
+                <div class="col-lg-10 col-xl-10 dark-style">
                     <div class="food-menu-style3 mb-40 mb-lg-70">
                         <ul class="nav nav-tabs justify-content-between" role="tablist">
                             <li>
                                 <a class="tab-button" id="lunch-food-tab" data-toggle="tab" href="#lunch-food" role="tab" aria-controls="lunch-food" aria-selected="false">
-                                    <span class="btn-icon"><i class="flaticon-croissant icon-2x"></i></span>
-                                    <span class="btn-text">Lunch</span>
+                                    <span class="btn-text">Salgado Frito</span>
                                 </a>
                             </li>
                             <li>
                                 <a class="tab-button" id="dinner-food-tab" data-toggle="tab" href="#dinner-food" role="tab" aria-controls="dinner-food" aria-selected="false">
-                                    <span class="btn-icon"><i class="flaticon-serving-dish icon-2x"></i></span>
-                                    <span class="btn-text">Dinner</span>
+                                    <span class="btn-text">Salgado Assado</span>
                                 </a>
                             </li>
                             <li>
                                 <a class="tab-button" id="breakfast-food-tab" data-toggle="tab" href="#breakfast-food" role="tab" aria-controls="breakfast-food" aria-selected="false">
-                                    <span class="btn-icon"><i class="flaticon-canape icon-2x"></i></span>
-                                    <span class="btn-text">Breakfast</span>
+                                    <span class="btn-text">Doces Gelados</span>
                                 </a>
                             </li>
                             <li>
                                 <a class="tab-button active" id="party-food-tab" data-toggle="tab" href="#party-food" role="tab" aria-controls="party-food" aria-selected="true">
-                                    <span class="btn-icon"><i class="flaticon-confetti icon-2x"></i></span>
-                                    <span class="btn-text">Party</span>
+                                    <span class="btn-text">Doces Quentes</span>
                                 </a>
                             </li>
-                            <li>
-                                <a class="tab-button" id="beverage-food-tab" data-toggle="tab" href="#beverage-food" role="tab" aria-controls="beverage-food" aria-selected="false">
-                                    <span class="btn-icon"><i class="flaticon-cocktail icon-2x"></i></span>
-                                    <span class="btn-text">Beverage</span>
-                                </a>
-                            </li>
+
                         </ul>
                     </div>
                 </div>
